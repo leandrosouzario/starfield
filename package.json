@@ -1,0 +1,13 @@
+{
+    "name": "azure-sql-web-app",
+    "version": "1.0.0",
+    "description": "Node.js web application to connect to Azure SQL Database",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mssql": "^7.3.0"
+    }
+  }
